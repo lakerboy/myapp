@@ -1,1 +1,1 @@
-<html></html>
+console.log('hello');
